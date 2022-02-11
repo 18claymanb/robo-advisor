@@ -10,4 +10,5 @@ The risk tolerance of an investor is one of the most important inputs in the rob
 
 Our target values are the “true” risk tolerance of an individual and the features are demographic, financial, and behavioral attributes of a prospective investor. We have 19,285 observations with 515 columns.
 
-The data source: Survey of Consumer Finances (SCF), https://www.federalreserve.gov/econres/scf_2009p.htm. The survey includes responses about household demographics, net worth, financial, and nonfinancial assets for the same set of individuals in 2007 (pre-crisis) and 2009 (post-crisis). 
+
+The data source: [![Survey of Consumer Finances (SCF)]]( https://www.federalreserve.gov/econres/scf_2009p.htm). The survey includes responses about household demographics, net worth, financial, and nonfinancial assets for the same set of individuals in 2007 (pre-crisis) and 2009 (post-crisis). 
